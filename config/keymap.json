@@ -4,7 +4,7 @@
   "layout": "LAYOUT",
   "layer_names": [
     "base",
-    "keypad",
+    "windows",
     "fn",
     "mod"
   ],
